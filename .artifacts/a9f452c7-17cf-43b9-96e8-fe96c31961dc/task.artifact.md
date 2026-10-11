@@ -1,0 +1,12 @@
+- `[ ]` Implement `DimensionUnit` enum and centralized `UnitConverter`
+- `[ ]` Implement `ConcreteVolumeCalculator` pure Kotlin logic
+- `[ ]` Update `CalculationDao.kt` and `EngineeringRepository.kt` with `getCalculationById`
+- `[ ]` Create reusable components: `NumericInputField`, `UnitSelector`, `CalculationResultCard`
+- `[ ]` Implement `ConcreteCalculatorViewModel.kt` (StateFlow, Validation UX, Persistence)
+- `[ ]` Implement `ConcreteCalculatorScreen.kt` (Material 3, Responsive)
+- `[ ]` Update navigation (`Routes.kt`, `ProBuildNavHost.kt`)
+- `[ ]` Integrate into `EngineeringWorkspaceScreen.kt` (card click, repeat action)
+- `[ ]` Write and run Unit Tests (`UnitConverterTest`, `ConcreteCalculatorTest`)
+- `[ ]` Run `./gradlew clean app:assembleDebug`
+- `[ ]` Perform manual verification on device
+- `[ ]` Create Walkthrough and Final Report

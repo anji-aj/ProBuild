@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path name="diary_photos" path="diary_photos/" />
+    <files-path name="reports" path="reports/" />
+    <cache-path name="temp_photos" path="." />
+    <cache-path name="reports_cache" path="reports/" />
+</paths>

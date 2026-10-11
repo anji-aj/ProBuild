@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">ProBuild</string>
+
+    <!-- Dashboard Greetings -->
+    <string name="greeting_morning">Good Morning</string>
+    <string name="greeting_afternoon">Good Afternoon</string>
+    <string name="greeting_evening">Good Evening</string>
+    <string name="welcome_back">Welcome back, Engineer</string>
+
+    <!-- Dashboard Actions -->
+    <string name="action_projects">My Projects</string>
+    <string name="action_engineering">Engineering Workspace</string>
+    <string name="action_diary">Site Diary</string>
+    <string name="action_material">Material Tracker</string>
+    <string name="action_estimator">Cost Estimator</string>
+    <string name="action_reports">Reports</string>
+    <string name="action_drawing">Drawing Studio</string>
+
+    <!-- Dashboard Descriptions -->
+    <string name="desc_projects">View and manage your construction sites</string>
+    <string name="desc_engineering">Structural, Quantity and Utility tools</string>
+    <string name="desc_diary">Log daily progress and site activities</string>
+    <string name="desc_material">Track inventory and deliveries</string>
+    <string name="desc_estimator">Quick project cost approximations</string>
+    <string name="desc_reports">Generate and export site reports</string>
+    <string name="desc_drawing">Architectural sketches &amp; engineering diagrams</string>
+
+    <!-- Sections -->
+    <string name="section_quick_actions">Quick Actions</string>
+    <string name="section_recent_projects">Recent Projects</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_projects">Projects</string>
+    <string name="nav_workspace">Workspace</string>
+    <string name="nav_reports">Reports</string>
+    <string name="nav_drawing">Drawing</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Misc -->
+    <string name="search_hint">Search projects or tools…</string>
+    <string name="notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="last_updated">Last updated: %1$s</string>
+    <string name="progress_label">%1$d%% Complete</string>
+
+    <!-- State States -->
+    <string name="error_loading">Failed to load dashboard data.</string>
+    <string name="retry">Retry</string>
+    <string name="empty_projects_title">No projects yet</string>
+    <string name="empty_projects_subtitle">Create your first project to get started.</string>
+    <string name="action_create_project">Create Project</string>
+</resources>

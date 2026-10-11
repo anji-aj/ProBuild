@@ -1,0 +1,25 @@
+# Task List - ProBuild Foundation (v1.0)
+
+- [/] Core Design System & Resources
+    - [ ] Create `ui/theme/Dimens.kt`
+    - [ ] Create `ui/theme/Shape.kt`
+    - [ ] Update `ui/theme/Color.kt`
+    - [ ] Update `ui/theme/Type.kt`
+    - [ ] Update `ui/theme/Theme.kt`
+    - [ ] Update `res/values/strings.xml`
+- [ ] Root & Main Navigation Setup
+    - [ ] Define `Screen` and `Graph` routes in `navigation/Routes.kt`
+    - [ ] Create `navigation/RootNavGraph.kt`
+    - [ ] Create `navigation/MainNavGraph.kt`
+    - [ ] Create `ui/MainScreen.kt` (Scaffold with BottomBar)
+- [ ] Feature Skeletons (Clean Architecture)
+    - [ ] Create packages for all 11+ features
+    - [ ] Implement empty Screens and placeholder ViewModels
+- [ ] Dashboard Feature Implementation (Full)
+    - [ ] `domain`: `DashboardAction`, `Project` models, `DashboardRepository` interface
+    - [ ] `presentation`: `DashboardUiState`, `DashboardViewModel`
+    - [ ] `presentation/components`: `DashboardTopBar`, `QuickActionCard`, `RecentProjectCard`
+    - [ ] `presentation`: `DashboardScreen` (Success, Loading, Error, Empty states)
+- [ ] Verification & Documentation
+    - [ ] Build & Run check
+    - [ ] Generate Architecture diagrams and Package tree

@@ -1,0 +1,22 @@
+# Task: Milestone 4.2 - Concrete Calculator Implementation
+
+- [ ] Initialize Task and Project Context
+- [ ] Implement Pure Calculation Layer
+    - [ ] `UnitConverter` (Verify and update constants)
+    - [ ] `ConcreteVolumeCalculator` (Ensure it's pure Kotlin)
+    - [ ] Unit Tests for `ConcreteVolumeCalculator`
+- [ ] Implement ViewModel
+    - [ ] `ConcreteCalculatorViewModel`
+    - [ ] Validation logic (UX requirements)
+    - [ ] Persistence integration
+    - [ ] Restoration logic (Structured inputs)
+- [ ] Implement UI
+    - [ ] `ConcreteCalculatorScreen`
+    - [ ] Form with validation errors
+    - [ ] Results display
+    - [ ] Project context handling (No project state)
+- [ ] Verification
+    - [ ] Run Unit Tests
+    - [ ] Perform Manual Verification steps
+    - [ ] Run `./gradlew clean app:assembleDebug`
+- [ ] Final Report and Walkthrough
